@@ -11,10 +11,20 @@ I recently graduated from the University of Durham with a degree in Natural Scie
 ### Spotify Project
 <a href="https://github.com/alexcurwood/SpotifyProject">Repository Link</a>
 #### Problem:
+The Spotify app does not allow for functionality requested by users
 
 #### Solution:
+Conduct research regarding which features users would like implemented.
+Use this research to create a prioritised list of features to implement within an external Spotify Web Application.
+Study the Spotify API documentation.
+Create a clear plan of how to use the Spotify API tools to implement each feature.
+Integrate each feature into the Web Application, obtaining user feedback and reflecting after each.
+Use the feedback to iterate on each feature, continually testing using user feedback.
+Adapt the plan for future features using the knowledge gained.
 
 #### Retrospective:
+The opportunity to study the documentation of and implement the Spotify API within my application was challenging but highly rewarding.
+In future, I will continue to conduct and analyse user research and integrate end-user testing into my development pipeline, to ensure my solutions directly provide value to the end user. I will start to integrate product design more into my development pipeline, to gain feedback as early as possible and iterate on my UX/UI. 
 
 ## Proficiency
 
