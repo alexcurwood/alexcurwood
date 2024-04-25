@@ -11,10 +11,10 @@ I recently graduated from the University of Durham with a degree in Natural Scie
 ### Spotify Project
 <a href="https://github.com/alexcurwood/SpotifyProject">Repository Link</a>
 #### Problem:
-The Spotify app does not allow for functionality requested by users
+The Spotify app does not allow for functionality requested by users.
 
 #### Solution:
-Conduct research regarding which features users would like implemented.
+Conduct research regarding which features users would like implemented.\n
 Use this research to create a prioritised list of features to implement within an external Spotify Web Application.
 Study the Spotify API documentation.
 Create a clear plan of how to use the Spotify API tools to implement each feature.
