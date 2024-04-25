@@ -9,5 +9,10 @@ I recently graduated from the University of Durham with a degree in Natural Scie
 ## Projects
 
 <a href="https://github.com/alexcurwood/SpotifyProject">Spotify Project</a>
+# Problem:
+
+# Solution:
+
+# Retrospective:
 
 
