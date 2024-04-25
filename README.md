@@ -1,4 +1,4 @@
-![banner](alex.png)
+![banner](banner.png)
 
 ## About Me
 
