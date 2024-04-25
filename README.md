@@ -16,4 +16,6 @@ I recently graduated from the University of Durham with a degree in Natural Scie
 
 #### Retrospective:
 
+## Proficiency
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=AlexCurwood)](https://github.com/ignacio-cuadra/github-readme-codewars)
