@@ -20,13 +20,13 @@ Use this research to create a prioritised list of features to implement within a
 
 Study the Spotify API documentation.
 
-Create a clear plan of how to use the Spotify API tools to implement each feature.
+Create a clear plan for implementing each feature using the Spotify API tools.
 
-Integrate each feature into the Web Application, obtaining user feedback and reflecting after each.
+Integrate each feature into my web application, obtaining user feedback and reflecting after each.
 
-Use the feedback to iterate on each feature, continually testing using user feedback.
+Use the feedback to iterate on each feature, continually conducting user testing.
 
-Adapt the plan for future features using the knowledge gained.
+Adapt my plans for future features using the knowledge gained.
 
 #### Retrospective:
 The opportunity to study the documentation of and implement the Spotify API within my application was challenging but highly rewarding.
