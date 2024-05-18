@@ -17,13 +17,9 @@ Consumers do not have easy access to sustainability information about their clot
 
 Eslando create digital product passports which store and share a product’s sustainability information using QR codes. We have built a front-end application which consumers are brought to after scanning one of these QR codes.
 
-#### Deployment:
-
-Please scan the QR codes to view an example:
+Please scan the QR code to see an example:
 
 ![qr-code](https://github.com/alexcurwood/alexcurwood/assets/149108865/0d0304c5-e6b2-4bce-8377-c573b520d5ec)
-
-
 
 <a href="https://github.com/INFINITYX00/eslando">Repository Link</a>
 
