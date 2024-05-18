@@ -8,7 +8,7 @@ I recently graduated from Durham University with a degree in Natural Sciences. M
 
 ## Projects
 
-### Eslando Relabel Digital Product Passports
+### Eslando - Relabel Digital Product Passports
 
 #### Problem:
 Consumers do not have easy access to sustainability information about their clothing.
