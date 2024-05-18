@@ -8,29 +8,14 @@ I recently graduated from Durham University with a degree in Natural Sciences. M
 
 ## Projects
 
-### Spotify Project
+### Playlist Manager
 <a href="https://github.com/alexcurwood/SpotifyProject">Repository Link</a>
-#### Problem:
-The Spotify app does not allow for functionality requested by users.
+#### Motivation:
+As a Spotify user, I find my playlists become too large to manage easily. I wanted a tool which let me filter my playlists by a given set of genres, and create sub-playlists using these filters.
 
 #### Solution:
-Conduct research regarding which features users would like implemented.
 
-Use this research to create a prioritised list of features to implement within an external Spotify Web Application.
-
-Study the Spotify API documentation.
-
-Create a clear plan for implementing each feature using the Spotify API tools.
-
-Integrate each feature into my web application, obtaining user feedback and reflecting after each.
-
-Use the feedback to iterate on each feature, continually conducting user testing.
-
-Adapt my plans for future features using the knowledge gained.
-
-#### Retrospective:
-The opportunity to study the documentation of and implement the Spotify API within my application was challenging but highly rewarding.
-In future, I will continue to conduct and analyse user research and integrate end-user testing into my development pipeline, to ensure my solutions directly provide value to the end user. I will start to integrate product design more into my development pipeline, to gain feedback as early as possible and iterate on my UX/UI. 
+I am creating a web application which allows the user to select one of their Spotify playlists, filter it by genre and create a sub-playlist 
 
 ## Proficiency
 
