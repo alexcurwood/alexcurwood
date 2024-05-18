@@ -21,7 +21,8 @@ Eslando create digital product passports which store and share a product’s sus
 
 Please scan the QR codes to view an example:
 
-![qr-code (2)](https://github.com/alexcurwood/alexcurwood/assets/149108865/1f4b4da5-058f-4f24-8e1d-2439050d787f)
+![qr-code](https://github.com/alexcurwood/alexcurwood/assets/149108865/0d0304c5-e6b2-4bce-8377-c573b520d5ec)
+
 
 
 <a href="https://github.com/INFINITYX00/eslando">Repository Link</a>
