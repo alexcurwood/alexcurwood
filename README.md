@@ -23,7 +23,6 @@ Please scan the QR code to see an example:
 
 <a href="https://github.com/INFINITYX00/eslando">Repository Link</a>
 
-
 ### Playlist Manager
 
 #### Motivation:
@@ -34,6 +33,18 @@ As a Spotify user, I find my playlists become too large to manage easily. I want
 I am creating a web application which allows the user to select one of their Spotify playlists, filter it by genre and create a sub-playlist 
 
 <a href="https://github.com/alexcurwood/SpotifyProject">Repository Link</a>
+
+### Sudoku Solver
+
+#### Motivation:
+I have always enjoyed solving Sudoku puzzles and wanted to test my problem-solving skills and algorithmic thinking.
+
+#### Solution:
+
+I created an application which retrieves a Sudoku puzzle from the Dosuku API and solves it using a brute force algorithm.
+
+<a href="https://sudoku-solver-red.vercel.app/">Deployed Site</a>
+<a href="https://github.com/alexcurwood/SpotifyProject">Repository Link</a> 
 
 ## Proficiency
 
