@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 ## About Me
 
 I am an aspiring Junior Software Developer. 
