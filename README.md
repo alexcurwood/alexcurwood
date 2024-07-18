@@ -1,6 +1,6 @@
 ## About Me
 
-I am an aspiring Junior Software Developer. 
+I am an aspiring Graduate Data Scientist. 
 
 I recently graduated from Durham University with a degree in Natural Sciences. My background and degree modules were in Physics, Mathematics, and Philosophy, but I chose to integrate Computer Science and Software Development during my second and third years. Within these disciplines, I found a unique opportunity to capitalise on my natural curiosity, leverage my problem-solving and analytical skills, and work within collaborative environments to create meaningful solutions for businesses and consumers. After graduating, I enrolled in the School of Code, which has been a fantastic opportunity to develop these skills further in an accelerated learning environment and start building solutions to real-world problems. Please find some examples below.
 
