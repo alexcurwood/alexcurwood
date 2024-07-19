@@ -15,7 +15,7 @@ Develop 2 basic and 2 enhanced Python algorithms to solve the travelling salesma
 
 #### University Machine Learning Project
 
-### Brief:
+#### Brief:
 Develop and assess a Python machine learning model approximating a subject’s illegal drug use based on personal information in a team of 3.
 
 <a href="https://drive.google.com/drive/folders/1NXKs2EVWbZf283onpEap0re4sEfXMW8M">Report Link</a>
