@@ -13,7 +13,7 @@ Develop 2 basic and 2 enhanced Python algorithms to solve the travelling salesma
 
 <a href="https://github.com/alexcurwood/TravellingSalesman">Repository Link</a>
 
-#### University Machine Learning Project
+### University Machine Learning Project
 
 #### Brief:
 Develop and assess a Python machine learning model approximating a subject’s illegal drug use based on personal information in a team of 3.
