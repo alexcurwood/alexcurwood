@@ -8,12 +8,12 @@ I recently graduated from Durham University with a degree in Natural Sciences. M
 
 ### University Data Science Project
 
-### Brief:
+#### Brief:
 Develop 2 basic and 2 enhanced Python algorithms to solve the travelling salesman problem – finding the shortest path visiting every city given a list of cities and distances.
 
 <a href="https://github.com/alexcurwood/TravellingSalesman">Repository Link</a>
 
-### University Machine Learning Project
+#### University Machine Learning Project
 
 ### Brief:
 Develop and assess a Python machine learning model approximating a subject’s illegal drug use based on personal information in a team of 3.
