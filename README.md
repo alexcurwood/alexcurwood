@@ -1,5 +1,7 @@
 ## About Me
 
+Graduate Software Engineer.
+
 Last year I graduated from Durham University in Natural Sciences, completing modules in Computer Science, Mathematics, Philosophy and Physics. I capitalised on my natural curiosity and developed my problem-solving, analytical and statistical skills. 
 
 After graduating, to bridge the gap between technical knowledge and practical software engineering experience, I enrolled at the School of Code. Rapidly learning new frameworks and applying them in hackathons and projects, alongside working in agile teams to create real-world solutions for stakeholders has provided a unique advantage over other graduates.
