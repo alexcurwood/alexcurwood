@@ -1,12 +1,10 @@
 ## About Me
 
-Graduate Data Scientist.
-
 Last year I graduated from Durham University in Natural Sciences, completing modules in Computer Science, Mathematics, Philosophy and Physics. I capitalised on my natural curiosity and developed my problem-solving, analytical and statistical skills. 
 
 After graduating, to bridge the gap between technical knowledge and practical software engineering experience, I enrolled at the School of Code. Rapidly learning new frameworks and applying them in hackathons and projects, alongside working in agile teams to create real-world solutions for stakeholders has provided a unique advantage over other graduates.
 
-I am now looking to leverage my skills and experience as a Graduate Data Scientist and create meaningful solutions for businesses and consumers.
+I am now looking to leverage my skills and experience to create meaningful solutions for businesses and consumers.
 
 ## Projects
 
